@@ -26,14 +26,15 @@ This database includes spatial data of natural features and management activitie
 
 ***
 
-<b>Data table metadata</b>
-| :---: | :---: |
-| File name | Shrub layer |							
+##<b>Data table metadata</b>
+| File name | Shrub layer |	
+| :---: | :---: |						
 | Date created |varied|							
 |Date last updated|16-06-2020|						
 |Number of records|			
-|Projection|EPSG:3005 - NAD83 - BC Albers|			
-<b>Data table structure and attribute description
+|Projection|EPSG:3005 - NAD83 - BC Albers|		
+
+##<b>Data table structure and attribute description
 |Attribute name|Definition|Unit|Type|Attribute description|</b>
 | :---: | :---: | :---: | :--- | :--- |
 |<i>Polynumber</i>|Polygon|Integer|
