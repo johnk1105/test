@@ -18,14 +18,14 @@ This database includes spatial data of natural features and management activitie
 |Projection|EPSG:3005 - NAD83 - BC Albers|		
 
 ##<b>Data table structure and attribute description</b>
-| Attribute   name      | Definition                                                                                                         | Unit | Type        | Attribute description                 |
-|:-----------------------:|:-----------------------------------------------------------|------|-------------|---------------------------------------|
-| Polynumber | Polygon | |Integer| |
+| Attribute name | Definition | Unit | Type | Attribute description |
+|:---:|:---|---|---|---|
+| Polynumber | Polygon | | Integer | |
 | DomSpecies | Dominant species | | String | Refer to speices code |
-| DomPercent | Dominant species percent | | Double |                                       |
-| CodSpecies | Codominant species                                                                                                 |      |             |                                       |
-| CodPercent            | Codominant species percent                                                                                         |      |             |                                       |
-| SubSpecies            |                                                                                                                    |      |             |                                       |
+| DomPercent | Dominant species percent | | Double | |
+| CodSpecies | Codominant species | | | |
+| CodPercent | Codominant species percent | | | | 
+| SubSpecies | | | |                                       |
 | SubSpecies   Percent  |                                                                                                                    |      |             |                                       |
 | Other#                | Other species presence, from   ascending order where 1 is the most prevalent (in %) compare to "other   species".  |      |             | e.g. Other1, Other2, Other3… Other(n) |
 | Perecent#             | Other species percent occurance,   from ascending order where 1 is the most prevalent other species.               |      | Double      |                                       |
