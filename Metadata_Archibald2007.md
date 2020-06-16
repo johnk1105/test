@@ -34,6 +34,8 @@ This database includes spatial data of natural features and management activitie
 |Number of records|			
 |Projection|EPSG:3005 - NAD83 - BC Albers|		
 
+***
+
 ##<b>Data table structure and attribute description
 |Attribute name|Definition|Unit|Type|Attribute description|</b>
 | :---: | :---: | :---: | :--- | :--- |
@@ -44,6 +46,8 @@ This database includes spatial data of natural features and management activitie
 |<i>CodPercent</i>|Codominant species percent|
 |<i>SubSpecies</i>|		
 |<i>SubSpecies Percent 	</i>|	
+
+***
 |Other#|	Other species presence, from ascending order where 1 is the most prevalent (in %) compare to "other species". 	|		|		|	e.g. Other1, Other2, Other3… Other(n)	|	
 |Perecent#|Other species percent occurance, from ascending order where 1 is the most prevalent other species.|	|	Double 	|	|	|	Area |	Area of patch|real number|	
 
