@@ -21,9 +21,9 @@ This database includes spatial data of natural features and management activitie
 | Attribute   name      | Definition                                                                                                         | Unit | Type        | Attribute description                 |
 |:-----------------------:|:-----------------------------------------------------------|------|-------------|---------------------------------------|
 | Polynumber | Polygon | |Integer| |
-| DomSpecies | Dominant species                                                                                                   |      | String      | Refer to speices code                 |
-| DomPercent            | Dominant species percent                                                                                           |      | Double      |                                       |
-| CodSpecies            | Codominant species                                                                                                 |      |             |                                       |
+| DomSpecies | Dominant species | | String | Refer to speices code |
+| DomPercent | Dominant species percent | | Double |                                       |
+| CodSpecies | Codominant species                                                                                                 |      |             |                                       |
 | CodPercent            | Codominant species percent                                                                                         |      |             |                                       |
 | SubSpecies            |                                                                                                                    |      |             |                                       |
 | SubSpecies   Percent  |                                                                                                                    |      |             |                                       |
