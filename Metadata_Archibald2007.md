@@ -37,17 +37,15 @@ This database includes spatial data of natural features and management activitie
 ***
 
 ##<b>Data table structure and attribute description</b>
-<b>|Attribute name|Definition|Unit|Type|Attribute description|</b>
-| :--- | :--- | :--- | :--- | :--- |
-|<i>Polynumber</i>|Polygon|Integer|
-|<i>DomSpecies</i>|Dominant species|String|Refer to speices code|	
-|<i>DomPercent</i>|Dominant species percent|Double|	
-|<i>CodSpecies</i>|Codominant species|	
-|<i>CodPercent</i>|Codominant species percent|
-|<i>SubSpecies</i>|		
-|<i>SubSpecies Percent </i>|	
-
-***
-|Other#|	Other species presence, from ascending order where 1 is the most prevalent (in %) compare to "other species". 	|		|		|	e.g. Other1, Other2, Other3… Other(n)	|	
-|Perecent#|Other species percent occurance, from ascending order where 1 is the most prevalent other species.|	|	Double 	|	|	|	Area |	Area of patch|real number|	
-
+| Attribute   name      | Definition                                                                                                         | Unit | Type        | Attribute description                 |
+|:-----------------------:|:-----------------------------------------------------------------------------------------------------------------|------|-------------|---------------------------------------|
+| Polynumber            | Polygon                                                                                                            |      | Integer     |                                       |
+| DomSpecies            | Dominant species                                                                                                   |      | String      | Refer to speices code                 |
+| DomPercent            | Dominant species percent                                                                                           |      | Double      |                                       |
+| CodSpecies            | Codominant species                                                                                                 |      |             |                                       |
+| CodPercent            | Codominant species percent                                                                                         |      |             |                                       |
+| SubSpecies            |                                                                                                                    |      |             |                                       |
+| SubSpecies   Percent  |                                                                                                                    |      |             |                                       |
+| Other#                | Other species presence, from   ascending order where 1 is the most prevalent (in %) compare to "other   species".  |      |             | e.g. Other1, Other2, Other3… Other(n) |
+| Perecent#             | Other species percent occurance,   from ascending order where 1 is the most prevalent other species.               |      | Double      |                                       |
+| Area                  | Area of patch                                                                                                      |      | real number |                                       |
