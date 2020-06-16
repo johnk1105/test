@@ -36,8 +36,8 @@ This database includes spatial data of natural features and management activitie
 
 ***
 
-##<b>Data table structure and attribute description
-|Attribute name|Definition|Unit|Type|Attribute description|</b>
+##<b>Data table structure and attribute description</b>
+<b>|Attribute name|Definition|Unit|Type|Attribute description|</b>
 | :---: | :---: | :---: | :--- | :--- |
 |<i>Polynumber</i>|Polygon|Integer|
 |<i>DomSpecies</i>|Dominant species|String|Refer to speices code|	
